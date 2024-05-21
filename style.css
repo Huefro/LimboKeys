@@ -1,3 +1,9 @@
+@font-face{
+    font-family: 'Renogare';
+    src: url('./Renogare-Regular.woff2')
+}
+
+
 /* This and the background-attatchment property are used to help the background image stay fixed when the user scrolls or content gets added */
 html, body{
     min-height: 100vh;
@@ -42,11 +48,11 @@ html{
 label{
     margin-top: auto;
     margin-bottom: auto;
-    font-family: Helvetica, sans-serif, monospace;
+    font-family: 'Renogare'
 }
 
 .title{
-    font-family: monospace;
+    font-family: 'Renogare';
     font-size: 2.5rem;
     text-align: center;
     margin: 50px;
