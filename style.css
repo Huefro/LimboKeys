@@ -3,6 +3,9 @@
     src: url('./Renogare-Regular.woff2')
 }
 
+p, h1{
+    margin: 0px, 3%;
+}
 
 /* This and the background-attatchment property are used to help the background image stay fixed when the user scrolls or content gets added */
 html, body{
